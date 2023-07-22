@@ -13,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lint": "^0.8.19",
+    "make": "^0.8.1",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
