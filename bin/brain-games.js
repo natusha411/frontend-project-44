@@ -1,6 +1,4 @@
 #!/usr/bin/env node
+import askAboutName from '../src/cli.js';
 
-const text = () => {
-  console.log('Welcome to the Brain Games!');
-};
-text ()
+askAboutName();
